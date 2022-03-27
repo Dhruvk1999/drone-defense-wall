@@ -1,6 +1,5 @@
 # drone-defense-wall
 
-Steps to be followed
 
 ## Object Detection  
 * This has to be done by OpenCV using just image processing
