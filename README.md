@@ -9,7 +9,7 @@
     * Then the DL model will be used to select which of the objects in the image is a drone (or is it a bird or an UFO)
     
 ## Object Tracking 
-Once the drone is detected it has to tracked for this specific purpose we’ll be using CAMShift algorithm.
+* Once the drone is detected it has to tracked for this specific purpose we’ll be using CAMShift algorithm.
 
 ## Jammer:
 * Basic Jamming Circuit
