@@ -8,7 +8,7 @@
     * This will also involve detecting different objects in the image by OpenCV
     * Then the DL model will be used to select which of the objects in the image is a drone (or is it a bird or an UFO)
 
-<strong>Update: the whole thing is now using selective segmentation which is from a recent literature. 
+<strong>Update: the whole thing is now using selective segmentation which is from a recent literature. </strong>
 
 ## Object Recognition
 * RCNN is used for this purpose for now.
