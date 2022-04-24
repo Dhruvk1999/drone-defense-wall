@@ -18,12 +18,14 @@
 * Once the drone is detected it has to tracked for this specific purpose we’ll be using CAMShift algorithm.
 
 ## Jammer:
+
+-- Resonance ciuruit won't work so abandoning this
 * Basic Jamming Circuit
 * Switching circuit to switch to different LC pairs
 * Different LC pairs would give  different frequencies to block
 * for presentation atleast RF must be blocked
-* Value of every L,C,R must be calculated. -- Resonance ciuruit won't work so abandoning this
+* Value of every L,C,R must be calculated. 
 * Power supply connection and design
-
+-- Abandoned
 ## Ardiuno 
 * to-do
